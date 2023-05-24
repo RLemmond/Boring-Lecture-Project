@@ -1,15 +1,20 @@
 .intro {
-  color: rgb(7, 83, 17);
-  font width: 50%;
+  color: rgb(9, 17, 97);
+  width: 50%;
 }
 
 #line1 {
-  color: red;
-  font width: 50%
+  color: rgb(105, 9, 9);
+  width: 50%
 }
 
 .important {
   font-style: italic;
   font-weight: 100;
   font-size: large;
+}
+
+.image {
+  border-image: fill;
+  size-adjust: 50%;
 }
