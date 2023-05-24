@@ -1,11 +1,14 @@
 .intro {
+  text-align: left;
   color: rgb(9, 17, 97);
-  width: 50%;
+  height: 100%;
+  width: 100%;
 }
 
 #line1 {
+  text-align: center;
   color: rgb(105, 9, 9);
-  width: 50%
+  width: 100%
 }
 
 .important {
@@ -15,6 +18,7 @@
 }
 
 img {
+  text-align: center;
   width: 100%;
   height: auto;
 }
