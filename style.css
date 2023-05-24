@@ -28,3 +28,8 @@ img {
   float: right;
   background-color: rgb(203, 205, 218);
 }
+
+.column {
+  width: 300px;
+  float: right;
+}
