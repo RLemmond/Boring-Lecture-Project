@@ -1,4 +1,4 @@
-#boring-lecture-project#
+boring-lecture-project
 
 #### By _**Richard Lemmond**_
 
