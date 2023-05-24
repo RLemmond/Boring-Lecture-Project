@@ -14,7 +14,7 @@
   font-size: large;
 }
 
-.image {
-  border-image: fill;
-  size-adjust: 50%;
+img {
+  width: 100%;
+  height: auto;
 }
