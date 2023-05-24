@@ -18,7 +18,7 @@
 }
 
 img {
-  text-align: center;
-  width: 100%;
+  float: left;
+  width: 70%;
   height: auto;
 }
