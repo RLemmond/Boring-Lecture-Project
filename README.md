@@ -16,7 +16,7 @@ _This project is a webpage dedicated to learning about The authors favorite and 
 
 ## Setup/Installation Requirements
 
-* _Clone the repository: (https://github.com/RLemmond/favorite-band.git)L_
+* _Clone the repository: https://github.com/RLemmond/boring-lecture-project.git_
 * _Open the project in your preferred code editor._
 * _Launch the index.html file in a web browser._
 
