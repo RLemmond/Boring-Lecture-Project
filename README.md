@@ -12,7 +12,7 @@
 
 ## Description
 
-_This project is a webpage dedicated to learning about The authors favorite and least favorit places in the world. It inclused photos, links to locations._
+_This project is a webpage dedicated to learning about the authors favorite and least favorite locations in the world. It includes photos, and links to locations._
 
 ## Setup/Installation Requirements
 
