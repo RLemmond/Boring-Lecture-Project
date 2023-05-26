@@ -1,8 +1,8 @@
-# _My Favorite and Least Favorite Places_
+# _Boring Lecture Project_
 
 #### By _**Richard Lemmond**_
 
-#### _HTML Code for webpage listing the best and worst places in the world accoring to the developer._
+#### _HTML Code for WIP webpage developer used to practice along with lessons._
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_This project is a webpage dedicated to learning about the authors favorite and least favorite locations in the world. It includes photos, and links to locations._
+_This project is a WIP webpage dedicated to practicing alonf with Epicodus lectures_
 
 ## Setup/Installation Requirements
 
