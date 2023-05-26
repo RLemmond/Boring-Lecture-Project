@@ -1,33 +1,33 @@
-boring-lecture-project
+# _My Favorite and Least Favorite Places_
 
 #### By _**Richard Lemmond**_
 
-#### _Code creates a website that explains how boring Math is and provides links to Math assistance._
+#### _HTML Code for webpage listing the best and worst places in the world accoring to the developer._
 
 ## Technologies Used
 
 * _HTML_
-* _GIT_
 * _VSCode_
+* _CSS_
 
 ## Description
 
-_This code is a work in progress_.
-_Code creates a webpage on chrome for user to read about how boring Math is and to go to external links that provide Math assistance._
+_This project is a webpage dedicated to learning about The authors favorite and least favorit places in the world. It inclused photos, links to locations._
 
 ## Setup/Installation Requirements
 
-* _HTML_
-* _Git_
-* _VSCode_
-* _Chrome Browser_
+* _Clone the repository: (https://github.com/RLemmond/favorite-band.git)L_
+* _Open the project in your preferred code editor._
+* _Launch the index.html file in a web browser._
+
+
 
 ## Known Bugs
 
-* _No known bugs_
+* _There are currently no known bugs or issues with this project._
 
 ## License
 
-_Contact developer at rglemmond86@yahoo.com with any issues or questions._
+_This project is not licensed. Feel free to explore, modify, and distribute the code as desired._
 
-Copyright (c) _05/2023_ _Richard Lemmond_
+Copyright (c) _2023_ _Richard Lemmond_
